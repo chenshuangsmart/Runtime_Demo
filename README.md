@@ -11,3 +11,6 @@
 
 5.runtime_isa_desc
 关于 isa 字段的详解例子
+
+6.runtime_union_mask
+关于掩码的详细讲解
