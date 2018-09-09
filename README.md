@@ -1,5 +1,6 @@
 # Runtime_Demo
- 关于 runtime 的详细介绍和对应例子
+关于 runtime 的详细介绍和对应例子
+ 
 1.runtime_API
 关于 runtime 相关 API 的详细介绍
 
@@ -14,3 +15,9 @@
 
 6.runtime_union_mask
 关于掩码的详细讲解
+
+7.runtime-method详解
+关于runtime中的Class的结构详细介绍
+
+7.runtime-cache
+关于runtime中方法缓存的介绍
