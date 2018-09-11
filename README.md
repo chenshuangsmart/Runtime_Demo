@@ -19,5 +19,11 @@
 7.runtime-method详解
 关于runtime中的Class的结构详细介绍
 
-7.runtime-cache
+8.runtime-cache
 关于runtime中方法缓存的介绍
+
+9.runtime-super
+  runtime-super2
+关于runtime 的Class 和 super 的详细介绍
+
+
